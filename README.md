@@ -8,4 +8,3 @@ this script has many bugs
 3- third you have to put api keys (the key is in "https://beta.openai.com/account/api-keys" where you have to login)
 4- with that it should work, but as I said before it has many bugs and it was done in one night because I had insomnia, do not judge me.
 
-Translated with www.DeepL.com/Translator (free version)
